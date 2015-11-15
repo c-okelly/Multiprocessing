@@ -1,4 +1,4 @@
-Class procject to demonstrated multiprocessing.
+Class procject to demonstrate multiprocessing.
 
 Writting in python
 
