@@ -89,7 +89,7 @@ def run_all_calcultators():
     print ("""This program will run a prime calculator in four different ways
     First by using just one process. Then buy using two and then 4.
     Each process run time will be measured adn printed out.
-    The process will also be running an extra process used to monitor
+    The program will also be running an extra process used to monitor
     (using a while loop) if the process has completed.
     """)
 
